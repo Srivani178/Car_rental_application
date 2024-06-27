@@ -20,7 +20,7 @@ This is a web-based car rental application designed and developed using HTML, CS
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/car-rental-app.git`
+1. Clone the repository: `git clone https://github.com/srivani/car-rental-app.git`
 2. Navigate to the project directory: `cd car-rental-app`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run migrations: `python manage.py migrate`
